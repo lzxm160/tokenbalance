@@ -9,7 +9,7 @@ import (
 	// "github.com/mkideal/cli"
 	// "log"
 	"math/big"
-	"os"
+	// "os"
 )
 
 var conn *ethclient.Client
